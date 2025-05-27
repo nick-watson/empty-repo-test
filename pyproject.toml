@@ -12,6 +12,7 @@ python = "^3.10"
 requests = "^2.31.0"
 pydantic = "^2.6.4"
 fastapi = "^0.110.0"
+cipher-googlepam = "1.5.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.1.1"
